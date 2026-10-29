@@ -1,0 +1,2 @@
+# Main-Project-Patient-Health-Care-Statistics-using-python
+Healthcare data analytics plays an important role in understanding patient information, treatment patterns, hospital visits, and healthcare costs. This project, titled "Healthcare Patient Analytics Using Python," aims to analyze patient healthcare data to identify meaningful patterns, trends, and insights that can support better healthcare decision
